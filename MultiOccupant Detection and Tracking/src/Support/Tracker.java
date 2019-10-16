@@ -22,8 +22,7 @@ import org.opencv.imgproc.Imgproc;
  * Tracker.java TODO:
  * 
  * @Asif Email:asif@khu.ac.kr
-  //* Credits: https://github.com/son-oh-yeah
- */
+  */
 
 public class Tracker extends JTracker {
 	int nextTractID = 0;

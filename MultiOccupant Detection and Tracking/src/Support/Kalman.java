@@ -10,7 +10,7 @@ import org.opencv.video.KalmanFilter;
  * Kalman.java TODO:
  * 
  * @author asif Email:asif@khu.ac.kr
-  //* Credits: https://github.com/son-oh-yeah
+  //*
  */
 
 public class Kalman extends KalmanFilter {

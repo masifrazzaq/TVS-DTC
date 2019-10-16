@@ -7,7 +7,7 @@ import java.util.Set;
 /**
  *
  * @author asif Email:asif@khu.ac.kr 
- * Credits: https://github.com/son-oh-yeah
+ * 
  */ 
 
 public class HungarianAlg3 {
